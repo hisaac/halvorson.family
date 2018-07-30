@@ -71,6 +71,7 @@ strong {
 
 h1 {
 	font-size: 3em;
+	text-decoration: underline;
 }
 
 p {
@@ -88,6 +89,7 @@ small {
 
 a:any-link {
 	color: #216dbe;
+	text-decoration: none;
 }
 
 figcaption {
